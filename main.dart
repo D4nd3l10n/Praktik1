@@ -20,7 +20,7 @@ class praktik_satu extends StatelessWidget{
           height: 100,
           child: new Center(child: new Text(
             'Hallo TI A ' 
-            style: TextStyle(color: Colors.brown, fontSize: 30,fontFamily: Serif)
+            style: TextStyle(color: Colors.brown, fontSize: 30,fontFamily: 'Serif')
             )
         )
       )
